@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <items type="Paste">
+        <item id="1">
+            <name>Sensodyne Recovery and Protection</name>
+            <price>100 UAH</price>
+            <param name="Company" value="Sensodyne" />
+            <param name="Classification" value="mass market" />
+            <param name="Appointment" value="cleansing" />
+            <param name="Serial number" value="4820127150169" />
+            <param name="Country" value="United Kingdom" />
+            <param name="Volume" value="75 ml" />
+            <param name="Year" value="2020" />
+            <param name="Availability" value="yes" />
+            <image>https://u.makeup.com.ua/7/7v/7vaqztchaaec.jpg</image>
+        </item>
+        <item id="2">
+            <name>Colgate Optic White</name>
+            <price>79 UAH</price>
+            <param name="Company" value="Colgate" />
+            <param name="Classification" value="mass market" />
+            <param name="Appointment" value="teeth whitening, cleansing" />
+            <param name="Serial number" value="8714789930817" />
+            <param name="Country" value="USA" />
+            <param name="Volume" value="85 ml" />
+            <param name="Year" value="2020" />
+            <param name="Availability" value="yes" />
+            <image>https://i2.rozetka.ua/goods/14253342/colgate_8714789930817_images_14253342114.jpg</image>
+        </item>
+        <item id="3">
+            <name>Blend-a-med Freshness of Herbs</name>
+            <price>49 UAH</price>
+            <param name="Company" value="Blend-a-med" />
+            <param name="Classification" value="mass market" />
+            <param name="Appointment" value="protection, cleansing" />
+            <param name="Serial number" value="5000174415698" />
+            <param name="Country" value="germany" />
+            <param name="Volume" value="105 ml" />
+            <param name="Year" value="2020" />
+            <param name="Availability" value="yes" />
+            <image>https://i1.rozetka.ua/goods/2109918/blend_a_med_5013965617195_images_2109918629.jpg</image>
+        </item>
+        <item id="4">
+            <name>Meridol Gentle whitening</name>
+            <price>218 UAH</price>
+            <param name="Company" value="Meridol" />
+            <param name="Classification" value="pharmacy" />
+            <param name="Appointment" value="teeth whitening, cleansing, anti-inflammation" />
+            <param name="Serial number" value="8718951263437" />
+            <param name="Country" value="United Kingdom" />
+            <param name="Volume" value="65 ml" />
+            <param name="Year" value="2020" />
+            <param name="Availability" value="no" />
+            <image>https://i1.rozetka.ua/goods/13083793/meridol_8718951263437_images_13083793179.jpg</image>
+        </item>
+        <item id="5">
+            <name>Marvis with sea mint flavor</name>
+            <price>161 UAH</price>
+            <param name="Company" value="Marvis" />
+            <param name="Classification" value="professional" />
+            <param name="Appointment" value="teeth whitening, cleansing" />
+            <param name="Serial number" value="8004395111725" />
+            <param name="Country" value="Italy" />
+            <param name="Volume" value="85 ml" />
+            <param name="Year" value="2020" />
+            <param name="Availability" value="yes" />
+            <image>https://i-cf5.gskstatic.com/content/dam/cf-consumer-healthcare/sensodyne-v2/en_US/Product-pages/products/desktop/Product-Repair-Protect-whitening.png?auto=format</image>
+        </item>
+    </items>
+    <items type="DentalFloss">
+        <item id="6">
+            <name>Dental floss Oral-B Essential</name>
+            <price>51 UAH</price>
+            <param name="Company" value="Oral-B" />
+            <param name="Classification" value="mass market" />
+            <param name="Appointment" value="comprehensive protection" />
+            <param name="Serial number" value="3014260280772" />
+            <param name="Country" value="Ireland" />
+            <param name="Length" value="50 m" />
+            <param name="Taste" value="mint" />
+            <param name="Availability" value="yes" />
+            <image>//www.elnino-parfum.pl/data/cache/thumb_min500_max750-min500_max750-12/products/297659/1592987123/oral-b-essential-floss-nitka-dentystyczna-1-szt-320709.jpg</image>
+        </item>
+        <item id="7">
+            <name>Dental floss Splat Professional</name>
+            <price>95 UAH</price>
+            <param name="Company" value="Splat Professional" />
+            <param name="Classification" value="middle market" />
+            <param name="Appointment" value="comprehensive protection, сaries protection" />
+            <param name="Serial number" value="4603014001771" />
+            <param name="Country" value="Russia" />
+            <param name="Length" value="30 m" />
+            <param name="Taste" value="bergamot, lime" />
+            <param name="Availability" value="yes" />
+            <image>https://i8.rozetka.ua/goods/17299739/zubnaya_nitj_splat_professional_dentalfloss_s_aromatom_bergamota_images_17299739556.jpg</image>
+        </item>
+        <item id="8">
+            <name>Dental floss Edel White</name>
+            <price>140 UAH</price>
+            <param name="Company" value="Edel White" />
+            <param name="Classification" value="medical" />
+            <param name="Appointment" value="cleaning of minimal interdental spaces" />
+            <param name="Serial number" value="7640131978309" />
+            <param name="Country" value="Switzerland" />
+            <param name="Length" value="70 m" />
+            <param name="Taste" value="mint" />
+            <param name="Availability" value="yes" />
+            <image>https://i1.rozetka.ua/goods/12865854/edel_white_7640131978309_images_12865854858.jpg</image>
+        </item>
+        <item id="9">
+            <name>Dental floss TePe Dental Tape</name>
+            <price>241 UAH</price>
+            <param name="Company" value="TePe Dental Tape" />
+            <param name="Classification: " value="medical" />
+            <param name="Appointment: " value="comprehensive protection" />
+            <param name="Serial number: " value="7317400017716" />
+            <param name="Country: " value="Sweden" />
+            <param name="Length: " value="40 m" />
+            <param name="Taste: " value="mint" />
+            <param name="Availability: " value="no" />
+            <image>https://i2.rozetka.ua/goods/7524814/tepe_7317400017716_images_7524814416.jpg</image>
+        </item>
+        <item id="10">
+            <name>Dental floss Biorepair with hyaluronic acid</name>
+            <price>170 UAH</price>
+            <param name="Company: " value="Biorepair" />
+            <param name="Classification" value="pharmacy" />
+            <param name="Appointment" value="comprehensive protection" />
+            <param name="Serial number" value="8017331058244" />
+            <param name="Country" value="Italy" />
+            <param name="Length" value="30 m" />
+            <param name="Taste" value="no" />
+            <param name="Availability" value="yes" />
+            <image>https://i2.rozetka.ua/goods/11471445/copy_biorepair_8017331058282_5c99e73bbc1f8_images_11471445986.jpg</image>
+        </item>
+    </items>
+    <items type="Toothbrush">
+        <item id="11">
+            <name>Antibacterial toothbrush for sensitive teeth</name>
+            <price>87 UAH</price>
+            <param name="Company" value="SPLAT" />
+            <param name="Classification" value="middle market" />
+            <param name="Appointment" value="cleansing" />
+            <param name="Serial number" value="809099" />
+            <param name="Country" value="Germany" />
+            <param name="Material" value="polyethylene terephthalate" />
+            <param name="Volume" value="1 pc" />
+            <param name="Availability" value="yes" />
+            <image>https://ae01.alicdn.com/kf/H89744ce60ada4b6b855ec17b4538a3d0h/Manual-Toothbrush-SPLAT-4603014006479-Beauty-Health-Oral-Hygiene-Toothbrushes-Accessories-Accessory-SPLAT-INNOVA-antibacterial-toothbrush-for.jpg_Q90.jpg_.webp</image>
+        </item>
+        <item id="12">
+            <name>Toothbrush "White"</name>
+            <price>70 UAH</price>
+            <param name="Company" value="Lacalut" />
+            <param name="Classification" value="middle market" />
+            <param name="Appointment" value="cleansing" />
+            <param name="Serial number" value="116707" />
+            <param name="Country" value="Germany" />
+            <param name="Material" value="nylon thread" />
+            <param name="Volume" value="1 pc" />
+            <param name="Availability" value="yes" />
+            <image>https://internetowysupermarket.pl/eng_pl_Lacalut-Aktiv-toothbrush-for-delicate-gums-86798_1.jpg</image>
+        </item>
+        <item id="13">
+            <name>Children's toothbrush</name>
+            <price>87 UAH</price>
+            <param name="Company" value="Zev" />
+            <param name="Classification" value="natural" />
+            <param name="Appointment" value="cleansing" />
+            <param name="Serial number" value="743773" />
+            <param name="Country" value="Germany" />
+            <param name="Material" value="bamboo" />
+            <param name="Volume" value="2 pc" />
+            <param name="Availability" value="yes" />
+            <image>https://ae01.alicdn.com/kf/Hb0ced42404494565b9cec763fc76006a9/Colorful-Environment-friendly-Natural-Bamboo-Toothbrush-Oral-Care-Bamboo-Handle-Soft-Bristles-Tooth-Brush-Whitening-Toothbrush.jpg_Q90.jpg_.webp</image>
+        </item>
+        <item id="14">
+            <name>Universal toothbrush set</name>
+            <price>87 UAH</price>
+            <param name="Company" value="Amway" />
+            <param name="Classification" value="mass market" />
+            <param name="Appointment" value="cleansing" />
+            <param name="Serial number" value="380213" />
+            <param name="Country" value="USA" />
+            <param name="Material" value="polyethylene terephthalate" />
+            <param name="Volume" value="4 pcs" />
+            <param name="Availability" value="yes" />
+            <image>https://u.makeup.com.ua/c/cu/cu40ffxwecce.jpg</image>
+        </item>
+        <item id="15">
+            <name>Electric Toothbrush</name>
+            <price>87 UAH</price>
+            <param name="Company" value="Oral-B" />
+            <param name="Classification" value="mass market" />
+            <param name="Appointment" value="cleansing" />
+            <param name="Serial number" value="809099" />
+            <param name="Country" value="China" />
+            <param name="Material" value="plastic" />
+            <param name="Volume" value="1 pc" />
+            <param name="Availability" value="yes" />
+            <image>https://u.makeup.com.ua/y/y2/y2prn2ksgwyo.png</image>
+        </item>
+    </items>
+</products>

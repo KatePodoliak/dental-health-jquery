@@ -1,0 +1,14 @@
+<!DOCTYPE product [
+		<!ELEMENT products (items)*>
+		<!ELEMENT items (item)+>
+		<!ATTLIST items type id ID #IMPLIED>
+		<!ATTLIST item id ID #REQUIRED>
+		<!ELEMENT item (name, price, param, image)>
+		<!ELEMENT name (#PCDATA)>
+		<!ELEMENT price (#PCDATA)>
+		<!ELEMENT image (#PCDATA)>
+		<!ELEMENT param (#PCDATA)>
+		<!ATTLIST param
+				name CDATA #REQUIRED
+				value CDATA #REQUIRED>
+]>

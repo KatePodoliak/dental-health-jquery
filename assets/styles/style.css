@@ -1,0 +1,481 @@
+a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #ffff;
+    font-family: Verdana;
+}
+
+header {
+    background-color: #ff7d21;
+    border-radius: 0 0 29px 0;
+}
+
+header:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+data {
+    display: block;
+    line-height: 16px;
+    margin: 0 0 0 2px;
+    font-size: 10px;
+    text-align: end;
+    letter-spacing: 1.3px;
+    border-right: 1px solid #20207e;
+}
+
+input[type='search'] {
+    float: right;
+    width: 150px;
+    height: 17px;
+    margin: 15px 7px 0 0;
+}
+
+input[type='text'] {
+    font-size: 10px;
+    padding: 2px;
+    border: 1px solid #20207e;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type='radio'], 
+input[type='checkbox'] {
+    cursor: pointer;
+}
+
+
+input[type='submit'] {
+    font-size: 10px;
+    font-weight: bold;
+    color: #ffff;
+    line-height: 13px;
+    letter-spacing: 1.1px;
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #20207e;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #20207e;
+}
+
+.table-fs input[type='submit'] {
+    padding: 4px 20px;
+    margin: 10px 0;
+}
+
+button[type='submit'] {
+    margin: 10px 0 0 150px;
+    padding: 5px 24px 0px 14px;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    background-size: 100%;
+    background: url(../images/arc_ok.png) no-repeat;
+    background-color: inherit;
+}
+
+aside {
+    float: left;
+    width: 180px;
+    background-color: #ff7d21;
+    clear: left;
+}
+
+ul {
+    clear: both;
+    padding: 25px 0 0 0px;
+    margin: 3px 0 26px 5px;
+    list-style-type: none;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 1.1px;
+    border-left: 1px solid #20207e;
+}
+
+ul:last-child {
+    border-bottom: 1px solid #20207e;
+}
+
+#reg-form {
+    margin: 20px;
+}
+
+#reg-form>label {
+    display: block;
+    margin-bottom: 0px;
+}
+
+#input-name {
+    width: 128px;
+    margin: 0px 0 0 28px;
+}
+
+#input-year {
+    margin: 0 14px 0 0;
+}
+
+#sex-man {
+    margin: 0 0 0 18px;
+}
+
+#tip {
+    border-bottom: none;
+    text-decoration: underline;
+    color: #20207e;
+}
+
+#details {
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+    list-style: square;
+}
+
+.reg-button {
+    margin-top: 10px;
+    display: block;
+}
+
+.fixed-container {
+    margin: 0 auto;
+    width: 760px;
+}
+
+.logo {
+    position: relative;
+    float: left;
+    width: 538px;
+}
+
+.logo-img {
+    position: absolute;
+    margin: -1px 0 0 -2px;
+    z-index: 2;
+}
+
+.logo-text {
+    margin: 0 0 0 2px;
+    padding: 0px 0 10px 180px;
+    line-height: 22px;
+    background-color: #20207e;
+    display: list-item;
+}
+
+.logo-text img {
+    margin: 4px 0 0 0;
+    position: absolute;
+    z-index: 1
+}
+
+.about-us-logo {
+    margin: 0 0 0 2px;
+    padding: 0 2px 8px 0;
+    font-size: 10px;
+    letter-spacing: 1.4px;
+    line-height: 18px;
+    text-align: right;
+    border: 1px solid #20207e;
+}
+
+.site-search {
+    float: right;
+    width: 222px;
+}
+
+.contacts {
+    position: relative;
+    padding: 0 0 5px 0;
+    font-size: 10px;
+    text-align: center;
+    border-top: 1px solid #20207e;
+    border-right: 1px solid #20207e;
+    border-bottom: 1px solid #20207e;
+}
+
+a.icon-top {
+    display: inline-block;
+    text-align: center;
+    line-height: 12px;
+    background: url(../images/arc_help.png) no-repeat 2px 2px;
+}
+
+a.icon-top>span {
+    display: inline-block;
+    padding: 34px 0 0 0;
+    width: 64px;
+    letter-spacing: 1.2px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: 50% 13px;
+}
+
+a.icon-help>span {
+    background-image: url(../images/question.png);
+}
+
+a.icon-about>span {
+    background-image: url(../images/exclamatory.png);
+}
+
+a.icon-contact>span {
+    background-image: url(../images/letter.png);
+}
+
+.search {
+    padding: 5px 0 6px 5px;
+    font-family: "Arial";
+    font-size: 11px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.menu-elements {
+    margin-top: 0px;
+}
+
+ul.menu-elements>li {
+    padding: 2px 0 2px 12px;
+    border-top: 1px solid #20207e;
+    background: url(../images/arrow.png) no-repeat 0px 4px;
+}
+
+.site-add {
+    display: inline-block;
+    margin: 0 5px;
+    border: 1px solid #ffff;
+}
+
+.icon-features {
+    padding: 15px 0 7px 16px;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 1.3px;
+    background: url('../images/arc_help.png') no-repeat 5px 4px;
+}
+
+.pills {
+    text-align: center;
+    background-color: #ffff;
+}
+
+.site-add-text {
+    font-size: 10px;
+    letter-spacing: 0.5px;
+    color: #2a2a2a;
+    padding: 5px 10px 0 5px;
+    background-color: #ffff;
+}
+
+.site-add-text a {
+    font-weight: bold;
+    color: #2a2a2a;
+}
+
+.site-add-text:last-of-type {
+    padding: 10px 10px 5px 5px;
+}
+
+.main-part {
+    position: relative;
+    float: right;
+    font-size: 10px;
+    line-height: 13px;
+    letter-spacing: 1.1px;
+    color: #000000;
+    width: 565px;
+    margin: 10px 0px 0 0px;
+    border: 1px solid #20207e;
+}
+
+.main-part div:first-child {
+    font-weight: bold;
+    color: #ffff;
+    background-color: #20207e;
+}
+
+.main-part div {
+    padding: 0 2px 0 8px;
+}
+
+.for-cal div {
+    padding: 0px;
+}
+
+.main-part p:first-child {
+    font-weight: bold;
+    color: #20207e;
+}
+
+.main-part p {
+    padding: 0.5px 0;
+}
+
+.main-part div:not(:first-child):not(:last-child) {
+    border-bottom: 1px solid #20207e;
+}
+
+.main-part div:nth-child(2) p:last-child {
+    padding: 5px 0 105px 0;
+}
+
+.main-part div:nth-child(3) p:last-child {
+    padding: 0 0 57px 0;
+}
+
+.main-part img {
+    float: right;
+    width: 35%;
+    margin: 0px 55px 0 0;
+}
+
+p.rubric {
+    padding: 4px 0 13px 0;
+}
+
+.error {
+    color: red;
+}
+
+.text-registaration {
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+
+.error-input {
+    border: 4px double red;
+}
+
+.newstyle {
+    background: red;
+}
+
+.tooltip {
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip:hover {
+    font-weight: bold;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 250px;
+    background-color: #ff7d21;
+    color: white;
+    text-align: left;
+    padding: 18px 25px;
+    border-radius: 10px;
+    position: absolute;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.table-fs th {
+    font-weight: bold;
+    width: 200px;
+    text-align: left;
+}
+
+.table-fs {
+    margin: 10px 10px 0 10px;
+}
+
+.fs-ico {
+    height: 16px;
+    width: 16px;
+}
+
+#shop {
+    width: 565px;
+    padding: 0;
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-bottom: 5px;
+}
+
+#shop img {
+    width: 100%;
+    height: 119px;
+    margin: 10px 0px 5px 0px;
+}
+
+#shopteeth {
+    text-align: center;
+    color: black;
+    font-weight: normal;
+    background-color: #fff;
+    border-bottom: solid 1px #202077;
+    padding: 15px 6px 80px 6px;
+}
+
+#products_img {
+    width: 30%;
+    background-color: #fff;
+    padding: 0 20px;
+    float: left;
+}
+
+#shopteeth span,
+#name_product {
+    font-weight: bold;
+    color: #20207e;
+}
+
+#name_product {
+    font-size: 14px;
+}
+
+.page-links {
+    background-color: #20207e;
+    height: 20px;
+}
+
+.page-links a {
+    color: white;
+    font-weight: bold;
+    float: right;
+    padding: 5px 10px;
+}
+
+.link-check {
+    color: #20207e;
+    text-decoration: underline;
+    padding: 2px;
+}
+
+#list-check {
+    border: none;
+    padding: 15px 0 0 0;
+}
+
+#list-check p:first-child {
+    color: #000000;
+    font-weight: normal;
+}
+
+#reg-complete {
+    padding: 10px 0 10px 8px;
+}
+
+.reg-elements {
+    padding: 15px 0 0 0;
+}
